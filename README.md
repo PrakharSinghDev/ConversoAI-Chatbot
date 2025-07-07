@@ -1,6 +1,6 @@
-# ConversoAI – AI-Powered Customer Support Chatbot
+# CustoviaAI – AI-Powered Customer Support Chatbot
 
-ConversoAI is a Python-based chatbot designed to automate customer interactions and handle frequently asked questions. It combines REST API integration and modular conversation flows to deliver fast, consistent responses.
+CustoviaAI is a Python-based chatbot designed to automate customer interactions and handle frequently asked questions. It combines REST API integration and modular conversation flows to deliver fast, consistent responses.
 
 ---
 
